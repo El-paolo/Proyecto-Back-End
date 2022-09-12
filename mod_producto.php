@@ -175,8 +175,7 @@ include ('sesion.php');
 						 
 						 header("Location:mod_producto.php");
 
-						 /*por alguna razón se debe actualizar la página una vez más aparte de la que se actualiza con el header
-						 creo que es por que se demora más en enviarse y descargarse los datos que en refrescar la página*/
+						
 					
 					
                 	}
